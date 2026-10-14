@@ -1,0 +1,11 @@
+# Dokumen tugas (dipush terpisah / tidak ikut ke repo)
+TGS_3_*.docx
+TGS_3_*.pptx
+TGS_3_*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# Lock file Office (jangan sampai ter-commit)
+~$*
